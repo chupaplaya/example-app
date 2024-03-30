@@ -46,7 +46,7 @@
   </tbody>
 </table>
 
-      
+
     </div>
     <div class="col">
       Column
